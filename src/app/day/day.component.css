@@ -1,0 +1,15 @@
+:host {
+  background-color: #fdfdfd;
+  box-shadow: 2px 2px 0;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  padding: 4px;
+}
+
+:host:last-of-type {
+  margin-right: 0;
+}
+
+:host.weekend {
+  background-color: #ffe0e0;
+}

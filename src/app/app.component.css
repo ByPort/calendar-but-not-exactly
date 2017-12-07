@@ -1,0 +1,9 @@
+:host {
+  margin: 0 10%;
+}
+
+section {
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+}

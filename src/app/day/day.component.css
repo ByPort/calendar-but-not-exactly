@@ -13,3 +13,7 @@
 :host.weekend {
   background-color: #ffe0e0;
 }
+
+h2 {
+  text-transform: capitalize;
+}
